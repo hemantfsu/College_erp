@@ -100,8 +100,10 @@ Supabase prevents SQL injection, but:
 
 If you discover a security issue, please report it responsibly.
 
-### 📧 Email:
-**hemantfsu@gmail.com**
+### 📧 Emails:
+- **hemantfsu@gmail.com**
+- **mailatmayank04@gmail.com**
+- **mrityunjaysingh958@gmail.com**
 
 ### 🕒 Response Time:
 - Critical vulnerabilities: **24–48 hours**  
